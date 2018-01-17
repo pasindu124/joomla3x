@@ -5,6 +5,7 @@ Objective
     ● Developing E-Commerce portals using Joomla
 
 Functionalities
+
     ● Shopping Cart with Online Payment Integration
     ● Google Map and Media Manager extension
     ● CRM extension
